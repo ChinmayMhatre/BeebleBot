@@ -7,12 +7,10 @@ assignees: ''
 
 ---
 
-# Other Issue
+**Describe the issue**
 
-## Describe the issue
+(A clear and concise description of the issue/concern)
 
-<!--A clear and concise description of the issue/concern-->
+**Additional information**
 
-## Additional information
-
-<!--Add any other context about the problem here.-->
+(Add any other context about the problem here.)
