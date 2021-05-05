@@ -7,12 +7,10 @@ assignees: ''
 
 ---
 
-# Maintenance
-
-## Describe the work
+**Describe the work**
 
 <!--A clear and concise description of what work should be done.-->
 
-## Additional information
+**Additional information**
 
 <!--Add any other context about the problem here.-->
