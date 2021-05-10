@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ChinmayMhatre/BeebleBot/issues"
   },
-  "homepage": "https://github.com/ChinmayMhatre/BeebleBot#readme"
+  "homepage": "https://github.com/ChinmayMhatre/BeebleBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
