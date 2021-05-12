@@ -23,4 +23,14 @@ const command = require("./commands");
     })
   })
 
+  //has permission issues
+
+  // command(client,["cc","clearchannel"],(message)=>{
+  //   if(message.member.roles.cache.some(role => role.name === 'Admin')){
+  //     message.channel.messages.fetch().then(results=>{
+  //       message.channel.bulkDelete(results)
+  //     })
+  //   }
+  // })
+
 client.login(process.env.BOT_TOKEN);
